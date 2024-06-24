@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": [
+    "security"
+  ],
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
